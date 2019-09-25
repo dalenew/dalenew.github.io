@@ -1,2 +1,3 @@
 # dalenew.github.io
-My GitHub pages.
+
+Currently nothing was added, maybe layer.
